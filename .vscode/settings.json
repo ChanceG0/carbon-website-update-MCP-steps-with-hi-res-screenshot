@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "carbon-mcp": {
+            "type": "http",
+            "url": "https://mcp.carbondesignsystem.com/mcp",
+            "headers": {
+                "Authorization": "Bearer YOUR_ACTUAL_TOKEN",
+                "X-MCP-Session": "YOUR_ACTUAL_SESSION"
+            },
+            "tools": [
+                "code_search",
+                "docs_search"
+            ]
+        }
+    }
+}
