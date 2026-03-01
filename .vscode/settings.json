@@ -3,9 +3,9 @@
         "carbon-mcp": {
             "type": "http",
             "url": "https://mcp.carbondesignsystem.com/mcp",
-            "headers": {
-                "Authorization": "Bearer YOUR_ACTUAL_TOKEN",
-                "X-MCP-Session": "YOUR_ACTUAL_SESSION"
+              "headers": {
+                "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImxvZ2luLmlibS5jb20tMjAyNTA4MDgifQ.eyJleHQiOnsiY291bnRyeSI6InVzIiwiZmlyc3ROYW1lIjoiQ2hhbmNlIiwibGFzdE5hbWUiOiJHb25nIiwiYmx1ZUdyb3VwcyI6WyJ6YXJ0YWNjZXNzZ3JvdXAiLCJMSVMgTm9uUmVndWxhciBVUyIsImxlZ2FsaWJtIiwiY29nbm9zLnByb2QuaHIud3BhLmNvbS51cyIsImdpdGh1Yi1jbG91ZC1jYXJib24tZGVzaWduLXN5c3RlbSIsIkhSQWxsIiwiMjAyNCBQVEVDSCIsIkppcmFASUJNLUFWRV9UaWNrZXRzXzY4IiwidzNpZF9wNV9Sb2JUaG9tYXNfRW1wbG95ZWVzNDQiLCJ3M2lkX1Bhc3NrZXlzX1JlcXVpcmVkIiwidzNpZF9QaGFzZTUtMSIsInczaWRfQWxsX0FQSVhMTyJdLCJ0YWxlbnRJZCI6IjlKODEyNzg5NyIsInRlbmFudElkIjoibG9naW4uaWJtLmNvbSIsImNuIjoiQ2hhbmNlIEdvbmcifSwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZlZGVyYXRlZF91c2VyIjoiZmVkZXJhdGVkIiwiYWRkcmVzcyI6eyJjb3VudHJ5IjoidXMifSwicmVhbG1OYW1lIjoiaHR0cHM6Ly93M2lkLnNzby5pYm0uY29tL2F1dGgvc3BzL3NhbWxpZHAyL3NhbWwyMCIsInVuaXF1ZVNlY3VyaXR5TmFtZSI6IjY5NjAwMEdDUEgiLCJuYW1lIjoiQ2hhbmNlIEdvbmciLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJDaGFuY2UuR29uZ0BpYm0uY29tIiwiZ2l2ZW5fbmFtZSI6IkNoYW5jZSIsImZhbWlseV9uYW1lIjoiR29uZyIsImVtYWlsIjoiQ2hhbmNlLkdvbmdAaWJtLmNvbSIsImFjciI6InVybjppYm06c2VjdXJpdHk6cG9saWN5OmlkOjI0OTYzIiwicnRfaGFzaCI6IjdqX3NJcU9UV3JFSVFudUlQc3R1YXciLCJ1c2VyVHlwZSI6ImZlZGVyYXRlZCIsInNfaGFzaCI6Il9oWEhtM1ZCbW0xS0loSW9sajdDUmciLCJhdXRoX3RpbWUiOjE3NzE2MTg3MTYsImp0aSI6InFyS3c5N2RiUVV6YkVZdW5OdFNZV25ZTGtxeTNKVCIsImF0X2hhc2giOiIxNkRaeHE2S0pxa1otUEUwOU13di1nIiwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5pYm0uY29tL29pZGMvZW5kcG9pbnQvZGVmYXVsdCIsImF1ZCI6Ik56ZzBZemxpWXpBdE9UaGpaUzAwIiwic3ViIjoiNjk2MDAwR0NQSCIsImlhdCI6MTc3MTYxODcxOCwiZXhwIjoxNzcxNjI1OTE4fQ.RzZeK4ZJVWcBNqsXcn_0Lu7ejuHOrew9qBFCFPrtzr-JAIDgMO-U7wbkoR1ky2aMzoRHjyiSkqNTYcJQ2aU3NtusoFm16ooF9VrNOqp7zRxUSp9T6Mi7Fvl_cB4a4YupwMiH1qhgaWfWw9HA29UbfKSH3XECmOB7IZ15t-uSN2WBXl7p4IdNEu4sGLWUY7VzNMMr6yXrNH2NwnEDt1MricZTB2ajKvzTaUnIBacjW4uEH5e25kH4J03iZMuf24sRFItVTqZxtfynLBrWV0nMC4p9_YwFZpTNaCCdWGVAzIOi8nfNs_VeVTI59D2yepQjVhn7dunbf9QjhkJ-6YpWNQ",
+                "X-MCP-Session": "b21288803d3049e5811c11e8c9d6ae32"
             },
             "tools": [
                 "code_search",
